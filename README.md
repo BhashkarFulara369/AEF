@@ -41,7 +41,7 @@ By mapping these patterns, the ESP8266 can guess the "State" of the room.
 ### Installation
 1.  Clone the repo:
     ```bash
-    git clone [https://github.com/BhashkarFulara69/Ambient-Event-Fingerprinting.git](https://github.com/BhashkarFulara69/Ambient-Event-Fingerprinting.git)
+    git clone [https://github.com/BhashkarFulara369/Ambient-Event-Fingerprinting.git](https://github.com/BhashkarFulara369/Ambient-Event-Fingerprinting.git)
     ```
 2.  Open `src/main.cpp` in Arduino IDE.
 3.  Install the **DHT sensor library** (Adafruit) via the Library Manager.
